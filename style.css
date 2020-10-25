@@ -1,0 +1,602 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+			/*-----perfect---start----*/
+
+.perfect{
+	background-image: linear-gradient(180deg,rgba(150,105,97,0.67) 0%,rgba(2,0,76,0.84) 100%),url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/04/real-estate-03.jpg);
+	overflow: hidden;
+	padding: 100px 0px;
+}
+
+.velit{
+	width: 70%;
+	float: left;
+}
+
+.contact{
+    width: 28%;
+    float: left;
+    margin-top: 13%;
+    padding: 30px 0px 30px 15px;
+    background-color: rgba(36,36,76,0.62);
+    border-color: #fa7f28;
+    border-top-width: 10px;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.velit h1{
+	font-size: 80px;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+    text-shadow: 0em 0.1em 0.6em rgba(0,0,0,0.6);
+    padding-bottom: 10px;
+    color: #fff;
+	padding-right: 38px;
+}
+
+.velit p{
+	padding-right: 39px;
+    font-size: 22px;
+    line-height: 1.8em;
+    color: #fff;
+	margin-bottom: 30px;
+}
+
+.velit a{
+	font-size: 16px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #fa7f28;
+    padding: 15px;
+    border-radius: 3px;
+	transition: letter-spacing 300ms;
+}
+
+.velit a:hover{
+	padding: 15px 17px;
+	letter-spacing: 0.1em;
+}
+
+
+.contact h2{
+	font-size: 27px;
+    line-height: 1.5em;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.contact p{
+	line-height: 2em;
+    color: rgba(255,255,255,0.7);
+}
+
+.contact a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.battun{
+	float: left;
+    margin-top: -14px;
+    margin-left: 37px;
+}
+
+.battun a{
+	text-decoration: none;
+    color: #3c39e6;
+    letter-spacing: 1px;
+    font-size: 12px;
+    background-color: #ffffff;
+    padding: 10px;
+	transition: letter-spacing 300ms;
+}
+
+.battun a:hover{
+	padding: 10px 13px;
+	letter-spacing: 0.1em;
+}
+
+@media (max-width: 960px){
+	.velit{
+	width: 100%;
+	float: none;
+}
+
+.velit h1{
+	font-size: 46px;
+}
+
+.velit p{
+	font-size: 24px;
+}
+
+.contact{
+    width: 100%;
+    float: left;
+    margin-top: 13%;
+    padding: 30px 0px 30px 15px;
+    background-color: rgba(36,36,76,0.62);
+    border-color: #fa7f28;
+    border-top-width: 10px;
+    border-radius: 6px 6px 6px 6px;
+}
+
+}
+
+			/*-----perfect---end---*/
+			
+			/*-----perspiciatis---start--
+			
+			
+
+.perspiciatis{
+	overflow: hidden;
+	margin-top: 10px;
+}
+
+.sale{
+	background-color: #fff;
+	box-shadow: 0px 39px 80px -6px rgba(0,0,0,0.1);
+}
+
+.natus{
+	width: 30%;
+	float: left;
+}
+
+        /*-----perspiciatis---end-----*/
+		
+
+		/*-----Something---start---*/
+
+.something{
+	overflow: hidden;
+	padding: 100px 0px;
+}
+
+.container{
+	width: 80%;
+	margin: auto;
+}
+
+.everyone{
+	width: 48%;
+	float: left;
+}
+
+.us{
+	font-weight: 500;
+	color: rgba(0,0,0,0.25);
+	line-height: 3.7em;
+}
+
+.everyone h1{
+    font-size: 30px;
+    line-height: 2.4em;
+	color: #333;
+    padding-bottom: 25px;
+}
+
+.everyone hr{
+	width: 70px;
+	margin-bottom: 45px;
+}
+
+.everyone p{
+	line-height: 1.8em;
+	font-weight: 300;
+    font-size: 16px;
+	color: #666;
+	padding: 0px 65px 0px 0px;
+    margin-bottom: 25px;
+}
+
+.everyone a{
+	text-decoration: none;
+	font-size: 14px;
+	background-color: #4866ff;
+	color: #fff;
+	padding: 20px 40px;
+	border-radius: 50px;
+}
+
+.call-1-2 img{
+	width: 100%;
+	height: auto;
+    position: relative;
+    margin-top: -40px;
+    margin-bottom: 40px;
+    margin-left: -40px;
+}
+
+.call-1-1{
+	background: linear-gradient(180deg,#4866ff 0%,#6fe5f3 100%);
+    margin-left: 40px;
+}
+
+@media (max-width: 960px){
+	.everyone{
+	width: 100%;
+	float: none;
+}
+
+.call-1-1{
+    margin-left: 20px;
+	margin-top: 100px;
+}
+
+}
+
+@media (max-width: 412px){
+	.everyone h1{
+    font-size: 17px;
+    line-height: ;
+    padding-bottom: 35px;
+}
+}
+
+	
+	
+	
+			/*-----Something---end---*/
+			
+			
+			/*-----Lorem--start---*/
+
+.lorem{
+	width: 80%;
+	height: auto;
+	overflow: hidden;
+	background-image: linear-gradient(120deg,#a258ff 0%,#308cff 100%);
+	padding: 4% 0;
+}
+
+.amet{
+	width: 50%;
+	float: left;
+}
+
+.ametp{
+	font-size: 24px;
+    line-height: 1.6em;
+    color: #fff;
+    padding: 0px 46px 0px 0px;
+    padding-bottom: 20px;
+}
+
+.amets{
+	color: #fff;
+    font-weight: inherit;
+    font-size: 14px;
+}
+
+.amet img{
+	width: 90%;
+	height: auto;
+}
+
+@media (max-width: 960px){
+	.amet{
+	width: 100%;
+	float: none;
+}
+.amet img{
+	margin-top: 40px;
+}
+}
+
+
+			/*-----Lorem--end---*/
+
+			/*-----flawless---start---*/
+
+.flawless{
+	overflow: hidden;
+	padding: 100px 0px;
+}
+
+.deleniti{
+	float: left;
+	width: 50%;
+}
+
+.ipsum{
+	float: left;
+	width: 50%;
+}
+.deleniti h1{
+	font-size: 30px;
+    line-height: 1.4em;
+	color: #333;
+    padding-bottom: 10px;
+}
+
+.call-22{
+	line-height: 1.8em;
+	font-size: 17px;
+	color: #666;
+	padding: 0px 73px 0px 0px;
+}
+
+.ipsum{
+	padding: 5.82% 0;
+}
+
+.ime {
+	width: 27%;
+    height: auto;
+    margin-bottom: 20px;
+	position: relative;
+}
+
+.ipsum h3{
+	font-size: 14px;
+	font-weight: 600;
+	color: #333;
+    padding-bottom: 10px;
+    line-height: 1em;
+}
+
+.ipsum p{
+    line-height: 1.7em;
+    font-weight: 500;
+    font-size: 16px;
+    color: #666;
+    padding: 0px 37px 0px 0px;
+}
+
+.call {
+	width: 100%;
+	height: auto;
+}
+
+@media (max-width: 960px){
+	.deleniti{
+	float: none;
+	width: 100%;
+}
+}
+
+				/*-----flawless---end---*/
+				
+				/*-----features---start---*/
+				
+.features{
+	overflow: hidden;
+	padding: 100px 0px;
+}
+
+.feat{
+	font-size: 28px;
+    line-height: 1.4em;
+	color: #333;
+    padding-bottom: 10px;
+	text-align: center;
+}
+
+.ac{
+	text-align: center;
+	line-height: 1.8em;
+	font-size: 17px;
+	color: #666;
+	padding: 0px 200px;
+	margin-bottom: 40px;
+}
+
+.vivamus{
+	width: 26%;
+	float: left;
+	margin-right: 5.5%;
+}
+
+.vivamus img{
+    width: 25%;
+    height: auto;
+    float: left;
+	padding: 20px;
+}
+
+.vivamus h2{
+    font-size: 15px;
+    line-height: 1.4em;
+    margin-bottom: 10px;
+}
+
+.vivamus p{
+	font-size: 14px;
+    color: #666;
+    line-height: 1.7em;
+	margin-bottom: 50px;
+}
+
+@media (max-width: 960px){
+	.vivamus{
+	width: 100%;
+	float: none;
+	margin-right: 0%;
+	text-align: center;
+}
+
+.vivamus img{
+	width: 20%;
+	padding: 0px;
+	float: none;
+}
+
+.vivamus p{
+	margin-bottom: 0px;
+}
+
+.ac{
+	text-align: center;
+	line-height: 1.8em;
+	font-size: 16px;
+	color: #666;
+	padding: 0px 50px;
+	margin-bottom: 40px;
+}
+
+}
+
+			/*-----features---end---*/
+			
+			/*-----rewiews---start---*/
+
+
+.rewiews{
+	overflow: hidden;
+	padding: 80px 0px;
+	background: #fafafc;
+}
+
+.you{
+	width: 28%;
+    float: left;
+    margin-right: 5%;
+	box-shadow: 0px 2px 18px 0px rgba(198,198,198,0.3);
+	border-radius: 8px 8px 8px 8px;
+	background: #fff;
+}
+
+.innovate{
+	padding: 40px 0px 0px 25px;
+    color: #666;
+    line-height: 1.7em;
+    padding-bottom: 2em;
+}
+
+.text{
+	line-height: 1.8em;
+	color: #666;
+	margin-left: 30px;
+	font-weight: 700;
+}
+
+.wab{
+	color: #666;
+    line-height: 1.7em;
+    padding-bottom: 2em;
+	margin-left: 30px;
+}
+
+/*--hoynai---butten--
+
+.baton{
+	padding: 15px 0px;
+}
+
+.but{
+	color: #6a5aff;
+    border-color: rgba(0,0,0,0.1);
+    border-radius: 100px;
+    letter-spacing: 1px;
+    font-size: 14px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+/*----hoynai---butten---*/
+
+@media (max-width: 960px){
+	.you{
+	width: 100%;
+    float: none;
+    margin-right: 0%;
+	margin-top: 50px;
+	}
+
+.innovate{
+	padding: 40px 17px 0px 25px;
+    padding-bottom: 2em;
+}	
+}
+
+			/*-----rewiews---end---*/
+			
+			/*-----subscribe---start---*/
+
+.subscribe{
+	background-color: #000000;
+	overflow: hidden;
+	padding: 80px 0px;
+	text-align: center;
+}
+
+.for h1{
+    color: #fff;
+    line-height: 2.4em;
+    padding-bottom: 10px;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+input[type="name"], [type="email"], [type="submit"] {
+	font-size: 16px;
+    padding: 14px;
+    width: 35%;
+    border-radius: 100px;
+	color: #666;
+	border: 1px solid #bbb;
+}
+
+input[type="submit"]{
+    font-size: 23px;
+    width: 38%;
+    letter-spacing: 1px;
+    background-color: #2b9cf2;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 600;
+	border-color: #2b9cf2;
+}
+
+.for p{
+	color: #7a7a7a;
+    margin-top: 28px;
+}
+
+@media (max-width: 960px){
+	.for h1{
+		float: left;
+        padding-bottom: 100px;
+		margin-left: 80px;
+}
+}
+
+@media (max-width: 680px){
+	.for h1{
+		float: none;
+        padding-bottom: 10px;
+		margin-left: 0px;
+}
+}
+
+			/*-----subscribe---end---*/
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
